@@ -1,19 +1,36 @@
 # 👋 Hello, my name is Gilberto Emmanuel Ruiz Nogueras  
-I’m passionate about creating innovative technologies that bridge hardware and software to solve real-world challenges. With a B.S. in Electrical Engineering (B.S.EE) from Syracuse University and an M.Eng. in Electrical & Computer Engineering (M.Eng.ECE) from Cornell Tech, my expertise spans IoT, robotics, VR, and computational systems.
+I am passionate about creating innovative technologies that bridge hardware and software to solve real-world challenges. With a **B.S. in Electrical Engineering** from Syracuse University and a **Master of Engineering in Electrical & Computer Engineering** from Cornell Tech, I specialize in IoT, robotics, VR, and computational systems.
+
+---
 
 ## 🔧 What I Do:
-- IoT and Healthcare Devices  
-- Robotics and Motion Tracking  
-- VR Interaction Systems  
-- Image Processing and Computer Vision  
-- Reinforcement Learning and Autonomous Systems  
-- Hardware Design and Prototyping  
+- **IoT and Healthcare Devices**: Designing innovative solutions for smarter healthcare systems.  
+- **Robotics and Motion Tracking**: Building intelligent robotic systems and motion tracking solutions.  
+- **VR Interaction Systems**: Creating immersive VR interfaces and 3D user experiences.  
+- **Image Processing and Computer Vision**: Developing applications for object detection and real-time image analysis.  
+- **Reinforcement Learning and Autonomous Systems**: Programming systems for autonomous decision-making and control.  
+- **Hardware Design and Prototyping**: Prototyping devices with efficient hardware and software integration.  
+
+---
 
 ## 🌟 About Me:
-I was born and raised in San Juan, Puerto Rico, where my passion for engineering began at a young age through designing and building robots for VEX Robotics Competitions. This early experience ignited my curiosity and set the foundation for my journey in innovation and technology. I am driven to create technologies that make a tangible difference. Whether it’s prototyping healthcare devices, advancing robotics, or building intelligent systems, my work reflects a dedication to innovation, collaboration, and solving real-world challenges.  
+Born and raised in **San Juan, Puerto Rico**, I discovered my passion for engineering early on by designing and building robots for **VEX Robotics Competitions**. This hands-on experience sparked my interest in bridging hardware and software to address complex challenges.  
+
+Through my academic journey at Syracuse University and Cornell Tech, I have worked on a diverse range of projects spanning robotics, IoT, healthcare devices, and intelligent systems. I am committed to creating technologies that make a tangible impact, driven by a dedication to innovation, collaboration, and solving real-world challenges.
+
+---
 
 ## 🌐 Check Out My Work:
-Check out my GitHub repository, **BoricuaTechLabs**, to explore my full portfolio of projects and experiences.
 
-## 🔗 Social Media:
+Here are some of the repositories showcasing my projects:  
+
+- **[N.A.V.I.](https://github.com/Ruiznogueras05/NAVI)**: Navigational Assist for the Visually Impaired, a wearable device integrating proximity sensors for obstacle detection and real-time audio feedback.  
+- **[Byte-The-Robot](https://github.com/Ruiznogueras05/Byte-The-Robot)**: A 3D-printed robot that mimics human movements in real-time using Mediapipe and MQTT.  
+- **[OpenCV-Duel](https://github.com/Ruiznogueras05/OpenCV-Duel)**: An interactive sword-fighting game utilizing real-time hand tracking with Python and Mediapipe.  
+- **[RFID-Jukebox](https://github.com/Ruiznogueras05/RFID-Jukebox)**: A modernized jukebox leveraging RFID technology and Spotify API for seamless music selection and playback.  
+- **[ECE-5242_Intelligent-Autonomous-Systems-Projects](https://github.com/Ruiznogueras05/ECE-5242_Intelligent-Autonomous-Systems-Projects)**: A collection of projects exploring autonomous navigation, SLAM, and reinforcement learning.  
+
+---
+
+## 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gilberto-ruiz0529/)
