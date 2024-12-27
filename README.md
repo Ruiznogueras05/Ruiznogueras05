@@ -24,11 +24,13 @@ Through my academic journey at Syracuse University and Cornell Tech, I have work
 
 Here are some of the repositories showcasing my projects:  
 
-- **[N.A.V.I.](https://github.com/Ruiznogueras05/NAVI)**: Navigational Assist for the Visually Impaired, a wearable device integrating proximity sensors for obstacle detection and real-time audio feedback.  
-- **[Byte-The-Robot](https://github.com/Ruiznogueras05/Byte-The-Robot)**: A 3D-printed robot that mimics human movements in real-time using Mediapipe and MQTT.  
-- **[OpenCV-Duel](https://github.com/Ruiznogueras05/OpenCV-Duel)**: An interactive sword-fighting game utilizing real-time hand tracking with Python and Mediapipe.  
-- **[RFID-Jukebox](https://github.com/Ruiznogueras05/RFID-Jukebox)**: A modernized jukebox leveraging RFID technology and Spotify API for seamless music selection and playback.  
-- **[ECE-5242_Intelligent-Autonomous-Systems-Projects](https://github.com/Ruiznogueras05/ECE-5242_Intelligent-Autonomous-Systems-Projects)**: A collection of projects exploring autonomous navigation, SLAM, and reinforcement learning.  
+1. **[Portal-Selection](https://github.com/Ruiznogueras05/Portal-Selection)**: A hybrid VR interaction technique inspired by *Portal*, featuring gesture-based portal placement and object manipulation.  
+2. **[CS-5678_3D-User-Interfaces-Projects](https://github.com/Ruiznogueras05/CS-5678_3D-User-Interfaces-Projects)**: Projects exploring VR interaction techniques like object manipulation and selection using Unity and the XR Toolkit.  
+3. **[ECE-5242_Intelligent-Autonomous-Systems-Projects](https://github.com/Ruiznogueras05/ECE-5242_Intelligent-Autonomous-Systems-Projects)**: A collection of projects exploring autonomous navigation, SLAM, and reinforcement learning.  
+4. **[Byte-The-Robot](https://github.com/Ruiznogueras05/Byte-The-Robot)**: A 3D-printed robot that mimics human movements in real-time using Mediapipe and MQTT.  
+5. **[RFID-Jukebox](https://github.com/Ruiznogueras05/RFID-Jukebox)**: A modernized jukebox leveraging RFID technology and Spotify API for seamless music selection and playback.  
+6. **[OpenCV-Duel](https://github.com/Ruiznogueras05/OpenCV-Duel)**: An interactive sword-fighting game utilizing real-time hand tracking with Python and Mediapipe.  
+7. **[N.A.V.I.](https://github.com/Ruiznogueras05/NAVI)**: Navigational Assist for the Visually Impaired, a wearable device integrating proximity sensors for obstacle detection and real-time audio feedback.  
 
 ---
 
