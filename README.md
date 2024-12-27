@@ -30,7 +30,7 @@ Here are some of the repositories showcasing my projects:
 4. **[Byte-The-Robot](https://github.com/Ruiznogueras05/Byte-The-Robot)**: A 3D-printed robot that mimics human movements in real-time using Mediapipe and MQTT.  
 5. **[RFID-Jukebox](https://github.com/Ruiznogueras05/RFID-Jukebox)**: A modernized jukebox leveraging RFID technology and Spotify API for seamless music selection and playback.  
 6. **[OpenCV-Duel](https://github.com/Ruiznogueras05/OpenCV-Duel)**: An interactive sword-fighting game utilizing real-time hand tracking with Python and Mediapipe.  
-7. **[N.A.V.I.](https://github.com/Ruiznogueras05/NAVI)**: Navigational Assist for the Visually Impaired, a wearable device integrating proximity sensors for obstacle detection and real-time audio feedback.  
+7. **[N.A.V.I.](https://github.com/Ruiznogueras05/N.A.V.I)**: Navigational Assist for the Visually Impaired, a wearable device integrating proximity sensors for obstacle detection and real-time audio feedback.  
 
 ---
 
